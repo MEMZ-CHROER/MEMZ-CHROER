@@ -1,5 +1,5 @@
 你好，我是一个编程人，喜欢一些作品
-这是我在github上开源的项目
+这是我在github上开源的项目，目前正在做网站
 
 <!---
 MEMZ-CHROER/MEMZ-CHROER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
